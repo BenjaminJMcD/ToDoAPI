@@ -268,8 +268,11 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ToDoAPI.Data.EF\ToDoAPI.Data.EF.csproj">
-      <Project>{0235fba1-e7a4-4077-b483-224ef28e4799}</Project>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ToDoAPI.Data.EF\ToDoAPI.Data.EF.csproj">
+      <Project>{c30a6ecf-07b9-431a-bc8e-466843f957fd}</Project>
       <Name>ToDoAPI.Data.EF</Name>
     </ProjectReference>
   </ItemGroup>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0235FBA1-E7A4-4077-B483-224EF28E4799}</ProjectGuid>
+    <ProjectGuid>{C30A6ECF-07B9-431A-BC8E-466843F957FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ToDoAPI.Data.EF</RootNamespace>
